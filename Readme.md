@@ -1,3 +1,3 @@
-#First, install __node__ https://nodejs.org/en/download/ and __npm__ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm 
+#First, install __node__ https://nodejs.org/en/download/ and __npm__ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm <br>
 #Second, install dependecies with npm install <br>
 #Third, run npm run dev
